@@ -66,7 +66,7 @@ MyShop is a lightweight and user-friendly web application that allows users to b
 
 ## Credits
 
-- Product images sourced locally (replace with your own).
+- Product images sourced from [Pixabay](https://pixabay.com/).
 - Bootstrap 5 (https://getbootstrap.com/)
 - jQuery (https://jquery.com/)
 
